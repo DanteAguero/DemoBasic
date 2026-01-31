@@ -1,5 +1,7 @@
 # 📱 DemoBasic — Mobile Product Catalog
 
+🌐 Live demo: https://demobasic.pages.dev
+
 **DemoBasic** es un catálogo de productos **mobile-first** diseñado para tiendas de celulares y negocios con pedidos vía **WhatsApp**.
 
 Presenta una **UI editorial y premium**, con cards cuidadas, páginas de producto dinámicas y un flujo simple de contacto, pensado especialmente para mercados LATAM.
